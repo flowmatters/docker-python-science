@@ -1,0 +1,6 @@
+jupyterlab
+shapely
+gdal
+pyproj
+geopandas
+rasterio
