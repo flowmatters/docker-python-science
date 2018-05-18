@@ -1,0 +1,6 @@
+https://github.com/joelrahman/python-rasterstats/archive/percent_cover.zip
+https://github.com/flowmatters/climate-utils/archive/master.zip
+https://github.com/flowmatters/nb-slack/archive/master.zip
+https://github.com/flowmatters/taudem-py/archive/master.zip
+https://github.com/flowmatters/pd-to-word/archive/master.zip
+https://github.com/flowmatters/lasso/archive/master.zip
