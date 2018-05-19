@@ -1,6 +1,9 @@
 jupyterlab
 shapely
-gdal
 pyproj
 geopandas
 rasterio
+https://github.com/pacificclimate/pydap/archive/develop.zip
+OWSLib
+https://github.com/Unidata/siphon/archive/master.zip
+netCDF4
